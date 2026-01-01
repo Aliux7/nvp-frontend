@@ -21,7 +21,7 @@ The project provides user authentication, employee management, CSV import, and r
 
 ### Running Backend
 ```bash
-cd nvp-backend
+cd nvp-frontend
 npm install
 npm run dev
 
